@@ -1,0 +1,16 @@
+body {
+    background-image: url("https://pngimage.net/wp-content/uploads/2018/06/login-background-images-png.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 50px;
+}
+
+.row {
+    margin-top: 5%;
+}
+
+label {
+    color: white;
+}
